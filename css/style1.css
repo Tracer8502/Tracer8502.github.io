@@ -197,7 +197,7 @@ li {
 }
 
 .minbox li:nth-child(5) {
-  background: url(../img-one/05.png) no-repeat;
+  background: url(../img-one/09.png) no-repeat;
   background-size: cover;
   -webkit-transform: rotateY(-90deg) translateZ(50px);
 }
@@ -234,7 +234,7 @@ li {
 }
 
 .maxbox li:nth-child(5) {
-  background: url(../img-one/5.png) no-repeat 0 0;
+  background: url(../img-one/9.png) no-repeat 0 0;
   background-size: cover;
   -webkit-transform: rotateY(-90deg) translateZ(50px);
 }
